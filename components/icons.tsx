@@ -163,6 +163,22 @@ export function BuildingIcon({ size = 23 }: IconProps) {
   );
 }
 
+/** Modern, filled mark used as the logo fallback for partners without a logo. */
+export function ModernMarkIcon({
+  size = 24,
+  fill = "#e11d22",
+}: IconProps & { fill?: string }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <path
+        d="M12 1.6c.45 5.2 3.2 7.95 8.4 8.4-5.2.45-7.95 3.2-8.4 8.4-.45-5.2-3.2-7.95-8.4-8.4 5.2-.45 7.95-3.2 8.4-8.4z"
+        fill={fill}
+      />
+      <circle cx="19" cy="18.5" r="2.6" fill={fill} opacity="0.5" />
+    </svg>
+  );
+}
+
 export function QuoteIcon({ size = 46, style }: IconProps) {
   return (
     <svg

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import type { Partner, Strings, Testimonial } from "@/lib/content";
-import { BuildingIcon, GlobeIcon, Stars } from "@/components/icons";
+import { BuildingIcon, ModernMarkIcon, Stars } from "@/components/icons";
 
 interface Props {
   c: Strings;
@@ -62,7 +62,7 @@ function PartnerCard({
         ) : accent === "blue" ? (
           <BuildingIcon size={23} />
         ) : (
-          <GlobeIcon size={23} stroke="#e11d22" strokeWidth={1.5} />
+          <ModernMarkIcon size={24} fill="#e11d22" />
         )}
       </span>
       <div>
