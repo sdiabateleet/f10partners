@@ -307,7 +307,7 @@ const EN: Strings = {
 // Logo files expected in /public/partners (drop the supplied brand logos here).
 // Absent files fall back to a styled wordmark, so the build never breaks.
 const PARTNER_LOGOS = {
-  institutFrancais: "/partners/institut-francais.png",
+  institutFrancais: "/partners/institut-francais.svg",
   ensea: "/partners/ensea.png",
   campusFrance: "/partners/campus-france.png",
   groupe33: "/partners/groupe-33.png",
