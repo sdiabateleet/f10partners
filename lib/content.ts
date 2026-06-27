@@ -310,7 +310,6 @@ const PARTNER_LOGOS = {
   institutFrancais: "/partners/institut-francais.svg",
   ensea: "/partners/ensea.png",
   campusFrance: "/partners/campus-france.png",
-  groupe33: "/partners/groupe-33.png",
   galileo: "/partners/galileo.png",
 } as const;
 
@@ -427,12 +426,12 @@ export function getContent(lang: Lang): Content {
       ];
   const partnersExt: Partner[] = isFr
     ? [
-        { name: "Groupe 33", tag: "Partenaire externe", logo: PARTNER_LOGOS.groupe33 },
+        { name: "Groupe 33", tag: "Partenaire externe" },
         { name: "Groupe Galileo France", tag: "Réseau d’écoles", logo: PARTNER_LOGOS.galileo },
         { name: "École Val d’Or", tag: "Établissement partenaire" },
       ]
     : [
-        { name: "Groupe 33", tag: "External partner", logo: PARTNER_LOGOS.groupe33 },
+        { name: "Groupe 33", tag: "External partner" },
         { name: "Groupe Galileo France", tag: "School network", logo: PARTNER_LOGOS.galileo },
         { name: "École Val d’Or", tag: "Partner institution" },
       ];
