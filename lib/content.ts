@@ -161,7 +161,7 @@ const FR: Strings = {
   aboutExp: "Une équipe à votre écoute",
   dirEyebrow: "Mot du Directeur",
   dirQuote:
-    "Étudier à l'étranger ne devrait jamais être un parcours du combattant. Chez F10 Consulting, nous mettons notre expérience, notre réseau et notre rigueur au service d'un seul objectif : transformer votre projet en réalité, sereinement.",
+    "Étudier à l'étranger ne devrait jamais être un parcours du combattant. Chez F10 Consulting, nous mettons notre expérience, notre réseau et notre rigueur au service d'un seul objectif : transformer votre projet en réalité.",
   dirName: "Le Directeur Général",
   dirRole: "Fondateur · F10 Consulting",
   servEyebrow: "Nos Services",
@@ -247,7 +247,7 @@ const EN: Strings = {
   aboutExp: "A team that listens",
   dirEyebrow: "A word from the Director",
   dirQuote:
-    "Studying abroad should never feel like a battle. At F10 Consulting, we put our experience, network and rigour to work toward one goal: turning your project into reality, with peace of mind.",
+    "Studying abroad should never feel like a battle. At F10 Consulting, we put our experience, network and rigour to work toward one goal: turning your project into reality.",
   dirName: "The Managing Director",
   dirRole: "Founder · F10 Consulting",
   servEyebrow: "Our Services",
