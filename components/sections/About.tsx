@@ -10,6 +10,7 @@ interface Props {
 const ABOUT_SLIDES: Slide[] = [
   { src: "assets/team.jpeg", alt: "L'équipe de F10 Consulting" },
   { src: "assets/team2.jpeg", alt: "L'équipe de F10 Consulting" },
+  { src: "assets/director-gallery.jpeg", alt: "Le directeur de F10 Consulting" },
   { src: "assets/event.jpeg", alt: "F10 Consulting lors d'un événement" },
   { src: "assets/director-desk.jpeg", alt: "Le directeur de F10 Consulting à son bureau" },
 ];
