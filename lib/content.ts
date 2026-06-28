@@ -148,7 +148,7 @@ const FR: Strings = {
     "F10 Consulting accompagne étudiants et professionnels, de l'orientation à l'inscription, dans les meilleures universités du monde. Un seul interlocuteur, de votre première question jusqu'à votre départ.",
   ctaPrimary: "Discuter sur WhatsApp",
   ctaSecondary: "Demander une consultation",
-  trustText: "Des dizaines d'étudiants accompagnés depuis 2023",
+  trustText: "Plus de 130 étudiants accompagnés depuis 2023",
   badgeDest: "Destinations",
   badgeYear: "Année de création",
   aboutEyebrow: "À propos",
@@ -234,7 +234,7 @@ const EN: Strings = {
     "F10 Consulting guides students and professionals from orientation to enrollment in the world’s best universities. One single contact, from your first question to your departure.",
   ctaPrimary: "Chat on WhatsApp",
   ctaSecondary: "Request a consultation",
-  trustText: "Dozens of students supported since 2023",
+  trustText: "130+ students supported since 2023",
   badgeDest: "Destinations",
   badgeYear: "Year founded",
   aboutEyebrow: "About",
@@ -339,13 +339,13 @@ export function getContent(lang: Lang): Content {
     ? [
         { num: "2023", label: "Année de création" },
         { num: "10", label: "Destinations dans le monde" },
-        { num: "Dizaines", label: "d'étudiants accompagnés" },
+        { num: "130+", label: "étudiants accompagnés" },
         { num: "A → Z", label: "Accompagnement personnalisé" },
       ]
     : [
         { num: "2023", label: "Year founded" },
         { num: "10", label: "Destinations worldwide" },
-        { num: "Dozens", label: "of students supported" },
+        { num: "130+", label: "students supported" },
         { num: "A → Z", label: "Personalised support" },
       ];
 
