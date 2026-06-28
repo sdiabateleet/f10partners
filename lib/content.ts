@@ -467,8 +467,8 @@ export function getContent(lang: Lang): Content {
       ];
 
   const aboutBullets = isFr
-    ? ["Solution tout-en-un ou modulaire", "Un interlocuteur unique", "Réseau d’établissements partenaires", "Conseils transparents et honnêtes"]
-    : ["All-in-one or modular solution", "One single point of contact", "Network of partner institutions", "Transparent, honest advice"];
+    ? ["Une solution tout-en-un ou modulaire", "Un interlocuteur unique", "Un réseau d’établissements partenaires", "Des conseils transparents et honnêtes"]
+    : ["An all-in-one or modular solution", "A single point of contact", "A network of partner institutions", "Transparent, honest advice"];
 
   return {
     c,
