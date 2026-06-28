@@ -156,7 +156,7 @@ const FR: Strings = {
   aboutP1:
     "F10 Consulting est une entreprise ivoirienne spécialisée dans le placement universitaire à l'étranger. Notre mission : simplifier la mobilité internationale, tout en garantissant un service de qualité, personnalisé et fiable.",
   aboutP2:
-    "Depuis sa création en 2023, nous accompagnons des dizaines d'étudiants et de professionnels — en quête de formation continue ou de reconversion — dans toutes leurs démarches d'inscription auprès d'établissements à l'étranger.",
+    "Depuis notre création en 2023, nous accompagnons près de 120 étudiants et professionnels en quête de reconversion ou de formation continue dans toutes leurs démarches administratives auprès d'établissements à l'étranger.",
   aboutBadge: "by DIS PARTNERS",
   aboutExp: "Une équipe à votre écoute",
   dirEyebrow: "Mot du Directeur",
@@ -242,7 +242,7 @@ const EN: Strings = {
   aboutP1:
     "F10 Consulting is an Ivorian company specialised in university placement abroad. Our mission: to simplify international mobility while guaranteeing a quality, personalised and reliable service.",
   aboutP2:
-    "Since 2023, we have supported dozens of students and professionals — seeking continuing education or a career change — through every step of enrolling with institutions abroad.",
+    "Since our founding in 2023, we have supported nearly 120 students and professionals seeking a career change or continuing education through all their administrative procedures with institutions abroad.",
   aboutBadge: "by DIS PARTNERS",
   aboutExp: "A team that listens",
   dirEyebrow: "A word from the Director",
