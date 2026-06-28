@@ -1,10 +1,18 @@
 import type { Strings } from "@/lib/content";
 import { CheckCircle } from "@/components/icons";
+import AutoCarousel, { type Slide } from "@/components/AutoCarousel";
 
 interface Props {
   c: Strings;
   aboutBullets: string[];
 }
+
+const ABOUT_SLIDES: Slide[] = [
+  { src: "assets/team.jpeg", alt: "L'équipe de F10 Consulting" },
+  { src: "assets/team2.jpeg", alt: "L'équipe de F10 Consulting" },
+  { src: "assets/event.jpeg", alt: "F10 Consulting lors d'un événement" },
+  { src: "assets/director-desk.jpeg", alt: "Le directeur de F10 Consulting à son bureau" },
+];
 
 export default function About({ c, aboutBullets }: Props) {
   return (
@@ -21,19 +29,7 @@ export default function About({ c, aboutBullets }: Props) {
       }}
     >
       <div style={{ position: "relative" }}>
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          alt="L'équipe de F10 Consulting"
-          src="assets/team.jpeg"
-          style={{
-            width: "100%",
-            borderRadius: 14,
-            display: "block",
-            boxShadow: "0 18px 44px -30px rgba(15,28,63,.4)",
-            objectFit: "cover",
-            aspectRatio: "5 / 4",
-          }}
-        />
+        <AutoCarousel slides={ABOUT_SLIDES} intervalMs={4000} aspectRatio="5 / 4" />
         <div
           style={{
             position: "absolute",
