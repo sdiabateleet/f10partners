@@ -156,7 +156,7 @@ const FR: Strings = {
   aboutP1:
     "F10 Consulting est une entreprise ivoirienne spécialisée dans le placement universitaire à l'étranger. Notre mission : simplifier la mobilité internationale, tout en garantissant un service de qualité, personnalisé et fiable.",
   aboutP2:
-    "Depuis notre création en 2023, nous accompagnons près de 120 étudiants et professionnels en quête de reconversion ou de formation continue dans toutes leurs démarches administratives auprès d'établissements à l'étranger.",
+    "Depuis notre création en 2023, nous avons accompagné près de 120 étudiants et professionnels en quête de reconversion ou de formation continue dans toutes leurs démarches administratives auprès d'établissements à l'étranger.",
   aboutBadge: "by DIS PARTNERS",
   aboutExp: "Une équipe à votre écoute",
   dirEyebrow: "Mot du Directeur",
