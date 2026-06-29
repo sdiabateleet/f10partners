@@ -145,7 +145,7 @@ const FR: Strings = {
   heroTitle2: "l'étranger,",
   heroTitle3: "enfin simples et sûres.",
   heroSub:
-    "F10 Consulting accompagne étudiants et professionnels, de l'orientation à l'inscription, dans les meilleures universités du monde. Un seul interlocuteur, de votre première question jusqu'à votre départ.",
+    "F10 Consulting accompagne les étudiants et les professionnels, de l'orientation à l'inscription, dans les meilleures universités du monde. Un seul interlocuteur, de votre première question jusqu'à votre départ.",
   ctaPrimary: "Discuter sur WhatsApp",
   ctaSecondary: "Demander une consultation",
   trustText: "Plus de 130 étudiants accompagnés depuis 2023",
@@ -157,11 +157,11 @@ const FR: Strings = {
     "F10 Consulting est une entreprise ivoirienne spécialisée dans le placement universitaire à l'étranger. Notre mission : simplifier la mobilité internationale, tout en garantissant un service de qualité, personnalisé et fiable.",
   aboutP2:
     "Depuis notre création en 2023, nous avons accompagné près de 120 étudiants et professionnels en quête de reconversion ou de formation continue dans toutes leurs démarches administratives auprès d'établissements à l'étranger.",
-  aboutBadge: "by F-DIS PARTNERS",
+  aboutBadge: "by FDIS PARTNERS",
   aboutExp: "Une équipe à votre écoute",
   dirEyebrow: "Mot du Directeur",
   dirQuote:
-    "Étudier à l'étranger ne devrait jamais être un parcours du combattant. Chez F10 Consulting, nous mettons notre expérience, notre réseau et notre rigueur au service d'un seul objectif : transformer votre projet en réalité.",
+    "Chez F10 Consulting, nous mettons notre expérience, notre réseau et notre rigueur au service d'un seul objectif : transformer votre projet en réalité.",
   dirName: "Le Directeur Général",
   dirRole: "Fondateur · F10 Consulting",
   servEyebrow: "Nos Services",
@@ -243,11 +243,11 @@ const EN: Strings = {
     "F10 Consulting is an Ivorian company specialised in university placement abroad. Our mission: to simplify international mobility while guaranteeing a quality, personalised and reliable service.",
   aboutP2:
     "Since our founding in 2023, we have supported nearly 120 students and professionals seeking a career change or continuing education through all their administrative procedures with institutions abroad.",
-  aboutBadge: "by F-DIS PARTNERS",
+  aboutBadge: "by FDIS PARTNERS",
   aboutExp: "A team that listens",
   dirEyebrow: "A word from the Director",
   dirQuote:
-    "Studying abroad should never feel like a battle. At F10 Consulting, we put our experience, network and rigour to work toward one goal: turning your project into reality.",
+    "At F10 Consulting, we put our experience, network and rigour to work toward one goal: turning your project into reality.",
   dirName: "The Managing Director",
   dirRole: "Founder · F10 Consulting",
   servEyebrow: "Our Services",

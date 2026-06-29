@@ -5,6 +5,8 @@ import { useEffect, useState, type CSSProperties } from "react";
 export interface Slide {
   src: string;
   alt: string;
+  /** CSS object-position for the crop (e.g. "center top"). Defaults to center. */
+  position?: string;
 }
 
 interface Props {
@@ -94,6 +96,7 @@ export default function AutoCarousel({
                 width: "100%",
                 height: "100%",
                 objectFit: "cover",
+                objectPosition: s.position ?? "center",
                 display: "block",
               }}
             />
