@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   title:
     "F10 Consulting — Placement universitaire à l'étranger | Études en France, Canada, Espagne…",
   description:
-    "F10 Consulting (by DIS PARTNERS) accompagne étudiants et professionnels dans leurs études à l'étranger : orientation, candidatures, dossier et visa. Consultation gratuite sur WhatsApp. Depuis 2023, Abidjan.",
+    "F10 Consulting (by F-DIS PARTNERS) accompagne étudiants et professionnels dans leurs études à l'étranger : orientation, candidatures, dossier et visa. Consultation gratuite sur WhatsApp. Depuis 2023, Abidjan.",
   keywords: [
     "études à l'étranger",
     "placement universitaire",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     "Belgique",
     "bourses",
     "F10 Consulting",
-    "DIS PARTNERS",
+    "F-DIS PARTNERS",
   ],
   authors: [{ name: "F10 Consulting" }],
   robots: { index: true, follow: true, "max-image-preview": "large" },
@@ -69,7 +69,7 @@ const orgJsonLd = {
   "@context": "https://schema.org",
   "@type": "EducationalOrganization",
   name: "F10 Consulting",
-  alternateName: "DIS PARTNERS",
+  alternateName: "F-DIS PARTNERS",
   url: `${SITE_URL}/`,
   logo: `${SITE_URL}/assets/logo.jpeg`,
   description:

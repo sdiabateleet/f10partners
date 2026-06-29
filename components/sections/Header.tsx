@@ -94,7 +94,7 @@ export default function Header({
                 marginTop: 3,
               }}
             >
-              BY DIS PARTNERS
+              BY F-DIS PARTNERS
             </span>
           </span>
         </a>
